@@ -1,5 +1,5 @@
 // API配置
-const API_BASE_URL = 'https://tight-river-d805.461646668.workers.dev';
+const API_BASE_URL = 'https://tight-river-d805.461646668.workers.dev'; //触发cf自动更新
 
 // GitHub用户名将从API获取
 let GITHUB_USERNAME = 'IonRh'; // 默认值，将被API数据覆盖
